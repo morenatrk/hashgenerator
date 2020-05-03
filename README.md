@@ -16,5 +16,6 @@ hashgenerator.php'deki 1. for döngüsündeki i < e gelen değer sizin oluşturm
 
 Search edebilmeniz ve mantığını kontrol edebilmeniz için veritabanında 40 k şifre bıraktım.
 
+daha hızlı sorgular yapabilmeniz için hash kolonuna index verin 
 
 zamanla güncelleyip yüklemeye devam edebilirim.
